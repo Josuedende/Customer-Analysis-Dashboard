@@ -1,0 +1,5 @@
+
+{
+  "name": "Customer Churn Analysis Dashboard",
+  "description": "An interactive dashboard to analyze customer churn. It visualizes key metrics, explores demographic and behavioral data, and uses a predictive model to identify at-risk customers, providing actionable insights for retention strategies."
+}
